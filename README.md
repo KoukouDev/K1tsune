@@ -74,18 +74,8 @@ and most importantly,
 unless you just scrolled to the bottom.
 
 
+#### Discord
 
-
-
-
-
-
-# Extras
-
-oh ho? there's more?
-
-## Discord
-
-oh yeahh--- i did mention discord. you'd think there'd be an official discord server, right?
-correct. 
 **https://discord.gg/5CrZJgk**
+
+this is the official support server.
